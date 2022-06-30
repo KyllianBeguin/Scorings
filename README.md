@@ -1,4 +1,4 @@
-# Algorithmes de Scorings
+# Algorithme de Scorings
 *By Kyllian BEGUIN, Bramly MBAKOP, Yaël GALESNE, Baptiste THIOLLIER*
 ## Avant propos  
 Nous avons développé cet algorithme durant le Hackathon organisé par l'école "Sup de Vinci", du 27/06/2022 au 01/07/2022.  
